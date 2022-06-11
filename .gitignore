@@ -58,8 +58,11 @@ bin/
 bin-int/
 
  # Files
-Makefile 
+Makefile
 
 # Visual Studio files and folder
 *.sln
 *.vcxproj*
+
+# Xcode files and folder
+*.xcodeproj/
